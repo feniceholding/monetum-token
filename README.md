@@ -2,7 +2,7 @@
 Code for Monetum Audit
 ## Getting started - Install Truffle 
 > npm install truffle -g
-$ npm install @openzeppelin/contracts
+
 
 ## Preparation of project folder:
 ```
